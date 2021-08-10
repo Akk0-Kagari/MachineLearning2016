@@ -1,0 +1,1 @@
+python3 solution1.py $1 $2
